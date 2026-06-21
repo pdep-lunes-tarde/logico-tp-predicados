@@ -5,14 +5,8 @@
 - [ ] Aceptar el assignment y clonar el repositorio con el ejercicio
 - [ ] Reemplazar nombre, apellido y legajo en este archivo
 
-- Grupo:
-
 - Nombre y apellido:
 - Legajo:
-
-- Nombre y apellido:
-- Legajo:
-
 
 ## Pre-requisitos
 
